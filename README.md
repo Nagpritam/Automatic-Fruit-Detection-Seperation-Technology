@@ -1,4 +1,4 @@
-#Non Destructive Automatic Fruit Detection/Seperation Technology
+## Non Destructive Automatic Fruit Detection/Seperation Technology
 
 The main objective is to detect fruit's quality and grade them depending on the size & its quality. We have used Neural Networks Algos with K-Clustering technique to generate different cluster images.
 
